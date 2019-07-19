@@ -1,0 +1,2 @@
+class PdfMetadataController < ApplicationController
+end
